@@ -47,4 +47,4 @@ Projekt można łatwo rozbudować o:
 - Priorytety, terminy, itp.
 
 ---
-Autor: [Twoje Imię] 
+Autor: Grzegorz Skotniczny (zespol-IT.pl)
