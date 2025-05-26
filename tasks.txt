@@ -1,0 +1,4 @@
+Nauka GoSu|true
+Zrobić zakupy|false
+Napisać raport|false
+test-1|false
